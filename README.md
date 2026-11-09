@@ -7,7 +7,7 @@ I led the **Home & Rental Services** part of a team project. The goal was to fin
 > **Data note:** The client survey data is confidential and is **not included** in this repository. The code and output charts are shared with personal information removed.
 
 ## Approach
-- Loaded and cleaned **39 client survey responses** with pandas
+- Loaded and cleaned client survey responses with pandas.
 - Grouped free-text service answers (Q4) into service categories using keyword rules
 - Measured positive-outcome rates by service type for:
   - rental counseling helping secure or maintain housing (Q5)
